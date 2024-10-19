@@ -1,6 +1,6 @@
-site_title = "MyArxiv"
-limit_days = 7
-cache_url = "https://mlnlp-world.github.io/MyArxiv/cache.json"
+site_title = "Arxiv New Paper List"
+limit_days = 14
+cache_url = "https://zzwu29.github.io/Arxiv/cache.json"
 
 [[sources]]
 limit = 150
