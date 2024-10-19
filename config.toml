@@ -1,5 +1,5 @@
 site_title = "Arxiv New Paper List"
-limit_days = 14
+limit_days = 1
 cache_url = "https://zzwu29.github.io/Arxiv/cache.json"
 
 [[sources]]
